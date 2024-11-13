@@ -1,6 +1,6 @@
-- nom :
-- prénom :
-- URL Netlify :
+- nom : Guillot
+- prénom : Valentine
+- URL Netlify : https://regal-alpaca-d0a1d9.netlify.app/
 
 # Travail
 
